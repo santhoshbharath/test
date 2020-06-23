@@ -1,4 +1,7 @@
-line i have to add into master
+
+I added one line here for master
+This file come from test branch
+This line i have to add into master
 HEAD
 hai
 ng for merge conflict
